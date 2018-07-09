@@ -1,0 +1,6 @@
+numpy
+matplotlib
+jupyter
+scipy
+sklearn
+tensorflow==1.7.0
